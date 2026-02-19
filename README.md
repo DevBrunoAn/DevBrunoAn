@@ -15,16 +15,10 @@ I enjoy learning new technologies, improving code quality, and collaborating on 
 - Git & GitHub
 - REST APIs
 
-🚀 Featured Projects
-- **React UI Components** – Reusable and scalable components for real-world applications
-- **Dashboard App** – Admin dashboard with authentication, charts and protected routes
-- **Auth with Firebase** – Authentication flow with Firebase and role-based access control
-
 📚 Currently Learning
 - Angular (components, services, routing, SPAs)
 - Java (OOP fundamentals)
 - Clean code and best practices
 
 📫 Contact
-- Email: brunoantunes4242@gmail.com
 - LinkedIn: https://www.linkedin.com/in/brunooantuness/
