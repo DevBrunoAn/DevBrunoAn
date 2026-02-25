@@ -2,7 +2,7 @@ Hi, I'm Bruno Antunes 👋
 Frontend Developer & Systems Information student  
 
 I'm a Frontend Developer passionate about building modern, responsive, and user-focused web applications.  
-Currently studying **Systems Information at UNISUL**, with a strong foundation in **HTML, CSS, JavaScript, TypeScript and React**, and actively learning **Angular and Java**.
+Currently studying **Systems Information at UNISUL**, with a strong foundation in **HTML, CSS, JavaScript, TypeScript and React**, and actively learning **Java**.
 
 I enjoy learning new technologies, improving code quality, and collaborating on real-world projects.
 
@@ -10,13 +10,11 @@ I enjoy learning new technologies, improving code quality, and collaborating on 
 - HTML5, CSS3
 - JavaScript (ES6+), TypeScript
 - React
-- Angular (learning)
 - Tailwind CSS
 - Git & GitHub
 - REST APIs
 
 📚 Currently Learning
-- Angular (components, services, routing, SPAs)
 - Java (OOP fundamentals)
 - Clean code and best practices
 
